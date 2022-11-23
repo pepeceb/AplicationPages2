@@ -4,7 +4,7 @@ email: cebrian.pepe@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   este es mi primer theme, a ver qué tal queda
   line in _config.yml.
-baseurl: "/clean" # the subpath of your site, e.g. /blog/
+baseurl: "/AplicationPages2" # the subpath of your site, e.g. /blog/
 url: "https://github.com/pepeceb" # the base hostname & protocol for your site
 twitter_username: @pepeceb
 github_username:  pepeceb
